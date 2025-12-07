@@ -1,0 +1,9 @@
+scenario,u,v,od_pairs,mean_delta_m,max_delta_m,num_disconnected
+closure,0,8,5,0,0,0
+reversal,0,8,5,0,0,0
+closure,8,11,5,0,0,0
+reversal,8,11,5,0,0,0
+closure,11,861,5,0,0,0
+reversal,11,861,5,0,0,0
+closure,67,100,5,0,0,0
+reversal,67,100,5,0,0,0
